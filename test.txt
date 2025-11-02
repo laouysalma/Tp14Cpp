@@ -1,0 +1,2 @@
+Bonjour : 
+ce fichier et pour tester l'exercice 45 des exceptions
